@@ -1,3 +1,5 @@
+[![Swift version](https://img.shields.io/badge/Swift-3.1-orange.svg)]()
+[![Swift version](https://img.shields.io/badge/Swift-4-orange.svg)]()
 # LinkedIn-Oauth2
 Example of linkedIn Oauth2 written in Swift 4
 

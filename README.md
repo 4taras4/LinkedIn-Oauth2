@@ -15,7 +15,7 @@ More info about useful info from LinkedIn [here][2].
 Integrating step by step instruction [here][3]
 
 ## Support 
-Please start if example usefull for you.
+Please start if example useful for you.
 
 [1]:https://developer.linkedin.com/
 [2]:https://developer.linkedin.com/docs/signin-with-linkedin

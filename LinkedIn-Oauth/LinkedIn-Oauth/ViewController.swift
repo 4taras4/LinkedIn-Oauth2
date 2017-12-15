@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
     @IBAction func loginAction(_ sender: Any) {
+        let controller = WebOauthViewController()
+          self.present(controller, animated: false, completion: nil)
     }
     @IBOutlet weak var tokenLabel: UILabel!
     

@@ -12,7 +12,7 @@ Regarding the OAuth 2.0 protocol there are no much to say, as the best move here
 More info about useful info from LinkedIn [here][2]
 Integrating step by step instruction [here][3]
 
-##Support 
+## Support 
 Please start if example usefull for you.
 
 [1]:https://developer.linkedin.com/

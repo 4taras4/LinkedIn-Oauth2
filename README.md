@@ -11,7 +11,7 @@ Regarding the OAuth 2.0 protocol there are no much to say, as the best move here
 > - Using the above, plus some more pieces of required data, we’ll ask the LinkedIn server for an authorization code.
 > - We’ll exchange the authorization code with an access token.
 
-More info about useful info from LinkedIn [here][2].
+More about useful info from LinkedIn [here][2].
 Integrating step by step instruction [here][3]
 
 ## Support 

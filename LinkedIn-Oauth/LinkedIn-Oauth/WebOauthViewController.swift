@@ -106,7 +106,6 @@ class WebOauthViewController: UIViewController,UIWebViewDelegate {
         let task: URLSessionDataTask = session.dataTask(with: request as URLRequest) { (data, response, error) -> Void in
             // Get the HTTP status code of the request.
             let statusCode = (response as! HTTPURLResponse).statusCode
-            print(statusCode)
             print("Status code", statusCode)
             if statusCode == 200 {
                 // Convert the received JSON data into a dictionary.
